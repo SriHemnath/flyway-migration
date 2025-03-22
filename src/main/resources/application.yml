@@ -1,0 +1,5 @@
+spring:
+#  flyway:
+#    check-location: false
+  application:
+    name: db-migrate
